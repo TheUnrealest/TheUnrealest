@@ -5,6 +5,9 @@
 - 💞️ i’m looking to collaborate on projects similar to mine. just don't ask me anything about networking ty
 - 📫 how to reach me: idk, what if github had DMs?
 
+# mr. worldwide
+you ain't italian? no worries, english is your best friend
+
 have fun
 <!---
 TheUnrealest/TheUnrealest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
