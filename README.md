@@ -5,6 +5,12 @@
 - 💞️ i’m looking to collaborate on projects similar to mine. yeah don't mind about spinning hearts emoji, i don't even know what girls are (just like networking)
 - 📫 how to reach me: idk, what if github had DMs?
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,blender,cpp,cs,git,java,python,unreal" />
+  </a>
+</p>
+
 # mr. worldwide
 you ain't italian? no worries, english is your best friend
 
