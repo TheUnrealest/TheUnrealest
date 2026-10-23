@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,blender,cpp,cs,git,java,python,unreal" />
+    <img src="https://skillicons.dev/icons?i=arch,anaconda,autocad,blender,c,cpp,cs,cmake,git,java,notion,python,unreal" />
   </a>
 </p>
 
